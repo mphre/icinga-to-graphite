@@ -1,5 +1,5 @@
 #!/bin/bash
-carbon_host=10.0.1.42
+carbon_host=192.168.2.6
 carbon_port=2003
 awk_script="/usr/local/lib/transform_perfdata.awk"
 
